@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "698382860645",
+    "firebase_url": "https://fj-delivery.firebaseio.com",
+    "project_id": "fj-delivery",
+    "storage_bucket": "fj-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698382860645:android:b6e4690c082bb122e0a18c",
+        "android_client_info": {
+          "package_name": "com.example.fjdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698382860645-v6t43nlc0uj3qa24r6ua9f53d016b2i0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fjdelivery",
+            "certificate_hash": "bb856350074ece0ee7db911a4e044e9ba1b1e941"
+          }
+        },
+        {
+          "client_id": "698382860645-pif11d5m2pp229psd575vgheq0i0cplt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUfKEtycyu-3uYUOhHZMcs4os30krzyOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698382860645-pif11d5m2pp229psd575vgheq0i0cplt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
